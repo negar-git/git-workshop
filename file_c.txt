@@ -1,0 +1,7 @@
+This is file C.
+
+It's not a pretty long file but it has more content than A and B.
+
+This is mostly due to some extra lines being present, like this one.
+
+And this one.
