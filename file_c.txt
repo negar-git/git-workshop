@@ -6,4 +6,4 @@ This is mostly due to some extra lines being present, like this one.
 
 And this one.
 
-Oh, and another one.
+This branch also adds a file called "file_c.txt"!
